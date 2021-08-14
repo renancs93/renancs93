@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I'm Renan Silva 👋 
+
+### 👨‍💻 It is not a programming language that defines the programmer, but its logic.
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renancs93&layout=compact&theme=react"></p>
 
 <!--
 **renancs93/renancs93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
