@@ -4,6 +4,8 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renancs93&layout=compact&theme=react"></p>
 
+![Snake animation](https://github.com/renancs93/renancs93/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **renancs93/renancs93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
